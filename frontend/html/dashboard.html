@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="../css/global.css" />
+  <link rel="stylesheet" href="../css/dashboard.css" />
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+  <!-- Mobile Sidebar Toggle -->
+  <button class="sidebar-toggle" aria-label="Toggle Sidebar">☰</button>
+
+  <!-- Overlay for dimming main content on mobile -->
+  <div class="overlay-main"></div>
+
+  <div class="container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <h2 class="logo brand-title">Helium</h2>
+
+      <div class="search">
+        <input type="text" placeholder="Search..." />
+      </div>
+
+      <nav class="menu">
+        <a href="#"><i data-lucide="home"></i> Home</a>
+        <a href="#"><i data-lucide="bell"></i> Notifications</a>
+        <a class="active" href="#"><i data-lucide="check-square"></i> Tasks</a>
+        <a href="#"><i data-lucide="settings"></i> Settings</a>
+      </nav>
+
+      <div class="other">
+        <div class="other-header">
+          <span>More</span>
+          <hr>
+        </div>
+        <a href="#"><i data-lucide="file-text"></i> Documentation</a>
+        <a href="#"><i data-lucide="users"></i> Refer a Friend</a>
+        <a href="#"><i data-lucide="inbox"></i> Inbox</a>
+        <a href="#"><i data-lucide="message-circle"></i> Support</a>
+      </div>
+
+      <div class="pro-box">
+        <p><strong>Boost with AI</strong><br/>AI-powered replies, tag insights, and tools that save hours.</p>
+        <button>Upgrade to Pro</button>
+      </div>
+
+      <div class="user">
+        <img src="https://via.placeholder.com/32" alt="User" />
+        <div>
+          <p class="name">Sagnik Mukherjee</p>
+          <p class="email">sagnikm40510@gmail.com</p>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="main">
+      <h1>Tasks</h1>
+    </main>
+  </div>
+
+  <script>
+    lucide.createIcons();
+  </script>
+  <script src="../js/dashboard.js"></script>
+</body>
+</html>

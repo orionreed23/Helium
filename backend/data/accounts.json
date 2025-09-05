@@ -1,0 +1,146 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@gmail.com",
+    "password": "Password123"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@yahoo.com",
+    "password": "SecurePass1"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Brown",
+    "email": "mike.brown@hotmail.com",
+    "password": "Hotmail2025"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Jones",
+    "email": "alice.jones@outlook.com",
+    "password": "Outlook@123"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Taylor",
+    "email": "robert.taylor@protonmail.com",
+    "password": "Proton#456"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "email": "emily.davis@icloud.com",
+    "password": "iCloud789"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Thomas",
+    "email": "daniel.thomas@zoho.com",
+    "password": "Zoho$321"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Wilson",
+    "email": "sarah.wilson@gmx.com",
+    "password": "GMXpass22"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Moore",
+    "email": "kevin.moore@gmail.com",
+    "password": "Kev12345"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Martin",
+    "email": "laura.martin@yahoo.com",
+    "password": "LauraPass"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Clark",
+    "email": "george.clark@hotmail.com",
+    "password": "George2025"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Walker",
+    "email": "linda.walker@outlook.com",
+    "password": "Walker88"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Hall",
+    "email": "paul.hall@protonmail.com",
+    "password": "HallSecure"
+  },
+  {
+    "firstName": "Nancy",
+    "lastName": "King",
+    "email": "nancy.king@icloud.com",
+    "password": "NancyPass99"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Green",
+    "email": "steven.green@zoho.com",
+    "password": "Green007"
+  },
+  {
+    "firstName": "Betty",
+    "lastName": "Adams",
+    "email": "betty.adams@gmx.com",
+    "password": "Betty!123"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Scott",
+    "email": "mark.scott@helium.com",
+    "password": "Helium001"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Lee",
+    "email": "anna.lee@helium.com",
+    "password": "Helium002"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Young",
+    "email": "peter.young@helium.com",
+    "password": "Helium003"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Carter",
+    "email": "susan.carter@helium.com",
+    "password": "Helium004"
+  },
+  {
+    "firstName": "Sagnik",
+    "lastName": "Mukherjee",
+    "email": "sagnikm40510@helium.com",
+    "password": "Helium005"
+  },
+  {
+    "firstName": "Sagnik",
+    "lastName": "Mukherjee",
+    "email": "sagnikmukherjee2312@gmail.com",
+    "password": "Nik@2312"
+  },
+  {
+    "firstName": "Test",
+    "lastName": "Test",
+    "email": "sagnikmukherjee231@gmail.com",
+    "password": "123456"
+  },
+  {
+    "firstName": "Sagnik",
+    "lastName": "Mukherjee",
+    "email": "sagnik@helium.com",
+    "password": "Nik@2312"
+  }
+]
