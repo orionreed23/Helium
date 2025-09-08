@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dashboard</title>
-  <link rel="stylesheet" href="../css/global.css" />
-  <link rel="stylesheet" href="../css/dashboard.css" />
+  <link rel="stylesheet" href="../css/global.css">
+  <link rel="stylesheet" href="../css/dashboard.css">
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest"></script>
 </head>
@@ -13,7 +13,7 @@
   <!-- Mobile Sidebar Toggle -->
   <button class="sidebar-toggle" aria-label="Toggle Sidebar">☰</button>
 
-  <!-- Overlay for dimming main content on mobile -->
+  <!-- Overlay for mobile sidebar -->
   <div class="overlay-main"></div>
 
   <div class="container">
@@ -22,7 +22,7 @@
       <h2 class="logo brand-title">Helium</h2>
 
       <div class="search">
-        <input type="text" placeholder="Search..." />
+        <input type="text" placeholder="Search... (Ctrl+K or Cmd+K)">
       </div>
 
       <nav class="menu">
@@ -44,12 +44,18 @@
       </div>
 
       <div class="pro-box">
-        <p><strong>Boost with AI</strong><br/>AI-powered replies, tag insights, and tools that save hours.</p>
+        <button class="pro-close" aria-label="Close Pro Box">
+          <i data-lucide="x"></i>
+        </button>
+        <p>
+          <strong>Boost with AI</strong><br>
+          AI-powered replies, tag insights, and tools that save hours.
+        </p>
         <button>Upgrade to Pro</button>
       </div>
 
       <div class="user">
-        <img src="https://via.placeholder.com/32" alt="User" />
+        <img src="https://via.placeholder.com/32" alt="User">
         <div>
           <p class="name">Sagnik Mukherjee</p>
           <p class="email">sagnikm40510@gmail.com</p>

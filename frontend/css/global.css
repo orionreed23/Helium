@@ -20,3 +20,34 @@ body {
 .brand-title {
     font-family: Orbitron, sans-serif;
 }
+
+:root {
+  /* Colors */
+  --bg-sidebar: #0a0a0a;
+  --bg-main: #1a1a1a;
+  --bg-input: #1f1f1f;
+  --bg-hover: #2b2b2b;
+  --bg-active: #121212;
+  --border-color: #3a3a3a;
+  --border-hover: #555;
+  --accent-color: #66b3ff;
+  --text-main: #e0e0e0;
+  --text-muted: #888;
+  --text-light: #fff;
+  --text-sub: #b0b0b0;
+  --overlay-bg: rgba(0,0,0,0.4);
+
+  /* Spacing (matches your original paddings/gaps/margins) */
+  --spacing-xs: 2px;      /* for pro-close button */
+  --spacing-sm: 4px;      /* small gaps */
+  --spacing-md: 6px;      /* menu link vertical padding & user box gap */
+  --spacing-lg: 8px;      /* main button padding, small margins */
+  --spacing-xl: 12px;     /* sidebar padding, logo margin-bottom, input margin-bottom */
+  --spacing-xxl: 10px;    /* main content padding */
+
+  /* Border radius */
+  --radius-sm: 2px;       /* menu link ::after */
+  --radius-md: 8px;       /* menu links, input, toggle button */
+  --radius-lg: 10px;      /* pro box, user box, pro buttons */
+}
+
